@@ -3,7 +3,7 @@
 Esta solución ha sido desarrollada para el proceso de selección de **Ziur Software**, enfocándose en la creación de una interfaz moderna y eficiente para el consumo de servicios externos utilizando las últimas tecnologías de Microsoft.
 
 ## Tecnologías Utilizadas
-* **Framework:** .NET 9.0 (Blazor Web App).
+* **Framework:** .NET 8.0 (Blazor Web App).
 * **Arquitectura:** Patrón de Servicio con Inyección de Dependencias.
 * **UI/UX:** Bootstrap 5, Bootstrap Icons y CSS Isolation.
 * **Lógica:** Consultas LINQ para filtrado dinámico en memoria.
